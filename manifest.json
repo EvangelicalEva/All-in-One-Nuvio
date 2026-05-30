@@ -588,6 +588,7 @@
       "filename": "providers/topcartoons.js",
       "enabled": true,
       "formats": ["mp4", "m3u8"],
+      "logo": "https://i.postimg.cc/3xVsbwp8/topcartoons.png",
       "contentLanguage": ["en"]
     },
     {
