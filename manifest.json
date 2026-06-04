@@ -147,19 +147,6 @@
       "logo": "https://i.postimg.cc/hhWqkVQs/allmovieland.png",
       "contentLanguage": ["en", "hi", "ta", "te"]  
     },
-    { 
-      "id": "brazucaplay",
-      "name": "BrazucaPlay",
-      "description": "Brazuca Play - Movies & Series in English & Portuguese",
-      "version": "1.0.0",
-      "author": "Nuvio Team",
-      "supportedTypes": ["movie", "tv"],
-      "filename": "providers/brazucaplay.js",
-      "enabled": true,
-      "formats": ["mp4", "mkv", "m3u8"],
-      "logo": "https://i.postimg.cc/9F6zdnyb/brazucaplay.png",
-      "contentLanguage": ["en", "pt"]
-    },
     {
       "id": "castle",
       "name": "🏰 Castle",
