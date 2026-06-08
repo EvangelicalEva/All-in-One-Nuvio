@@ -249,7 +249,7 @@
       "enabled": true,
       "resources": ["stream"],
       "formats": ["mkv", "m3u8"],
-      "logo": "",
+      "logo": "https://i.postimg.cc/CLRByKRf/corsaroviola.png",
       "contentLanguage": ["en", "it"]
     },
     {
